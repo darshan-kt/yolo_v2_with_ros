@@ -15,7 +15,7 @@ This package demonstrate working of laptop webcamera and running yolo model on R
     roslaunch webcam_pkg webcam.launch
 
 ## Running yolo detection model
-### Launch YOLO V2 model
+### Terminal 2: Launch YOLO V2 model
     cd assignment_ws
     souce devel/setup.bash
     roslaunch yolo_v2_ros assignment.launch
